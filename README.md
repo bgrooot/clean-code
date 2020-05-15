@@ -1,7 +1,5 @@
 # clean-code
 
-챕터 5부터는 영어 서적으로 진행하였다.
-
 1. [깨끗한 코드](https://bgrooot.github.io/clean-code/clean-code-ch1.html)
 1. [의미있는 이름](https://bgrooot.github.io/clean-code/clean-code-ch2.html)
 1. [함수](https://bgrooot.github.io/clean-code/clean-code-ch3.html)
